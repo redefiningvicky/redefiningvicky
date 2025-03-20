@@ -5,8 +5,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/redef
 ## 🛠️ Tools <br>
 • Language: C++, Python, R <p>
 • Visualization: ArcGIS Online, ArcGIS Pro, ArcGIS Storymaps, ArcGIS Dashboards <p>
-• Exploration: Microsoft Excel
-• Analysis: PSPP
+• Exploration: Microsoft Excel <p>
+• Analysis: PSPP <p>
 • Hardware: Arduino <p>
 ## 👋🏻 Find Me Here <br>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
