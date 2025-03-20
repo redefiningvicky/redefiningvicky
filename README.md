@@ -3,7 +3,7 @@ Hello, I am Vicky. <p>
 ## 📚 Projects <br>
 Welcome to my portfolio, where I showcase my [projects](https://github.com/redefiningvicky/Portfolio-Guide).
 ## 🛠️ Tools <br>
-• <b>Language:</b> C++, Python, R <p>
+• <b>Language:</b> Python, R, C++ <p>
 • <b>Exploration:</b> Microsoft Excel <p>
 • <b>Visualization:</b> ArcGIS Online, ArcGIS Pro, ArcGIS Storymaps, ArcGIS Dashboards <p>
 • <b>Analysis:</b> PSPP <p>
