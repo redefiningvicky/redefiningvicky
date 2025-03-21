@@ -4,8 +4,9 @@ Hello, I am Vicky. <p>
 Welcome to my portfolio, where I showcase my [projects](https://github.com/redefiningvicky/Portfolio-Guide).
 ## 🛠️ Tools <br>
 • <b>Language:</b> Python, R, C++ <p>
-• <b>Exploration:</b> Microsoft Excel <p>
-• <b>Visualization:</b> ArcGIS Online, ArcGIS Pro, ArcGIS Storymaps, ArcGIS Dashboards <p>
+• <b>Microsoft:</b> Microsoft Excel, Microsoft Powerpoint <p>
+• <b>Visualization:</b>  <p>
+• <b>GIS:</b> ArcGIS Online, ArcGIS Pro, ArcGIS Storymaps, ArcGIS Dashboards, ArcGIS Field Maps <p>
 • <b>Analysis:</b> PSPP <p>
 • <b>Design:</b> Canva, Adobe InDesign, Adobe Photoshop <p>
 • <b>Modeling:</b> AutoCAD, Tinkercad <p>
