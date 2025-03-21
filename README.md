@@ -5,7 +5,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/redef
 ## 🛠️ Tools <br>
 • <b>Language:</b> Python, R, C++ <p>
 • <b>Microsoft:</b> Microsoft Word, Microsoft Excel, Microsoft Powerpoint <p>
-• <b>Google:</b> Google Docs, Google Sheets,Google Slides <p>
+• <b>Google:</b> Google Docs, Google Sheets, Google Slides <p>
 • <b>Visualization:</b>  <p>
 • <b>GIS:</b> ArcGIS Online, ArcGIS Pro, ArcGIS Storymaps, ArcGIS Dashboards, ArcGIS Field Maps <p>
 • <b>Analysis:</b> PSPP <p>
