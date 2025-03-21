@@ -13,5 +13,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/redef
 • <b>Modeling:</b> AutoCAD, Tinkercad <p>
 • <b>Hardware:</b> Arduino <p>
 ## 👋🏻 Find Me Here <br>
+• Visit my [Website](). <p>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
-• Hire me on Upwork.
+• Hire me on [Upwork]().
