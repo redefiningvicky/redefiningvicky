@@ -2,7 +2,7 @@
 Hello, I am Vicky. <p>
 ## 📚 Technical Projects <br>
 Explore my collection of [technical projects](https://github.com/redefiningvicky/Technical-Projects).
-## 📚 Creative Projects <br>
+## 🎨 Creative Projects <br>
 Explore my collection of [creative projects](https://github.com/redefiningvicky/Creative-Projects).
 ## 🛠️ Tools <br>
 • <b>Language:</b> Python, R, C++ <p>
