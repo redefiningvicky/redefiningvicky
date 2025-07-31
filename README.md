@@ -8,7 +8,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/redef
 • <b>Visualization:</b>  <p>
 • <b>GIS:</b> ArcGIS Online, ArcGIS Pro, ENVI, Google Maps, Google Earth Engine <p>
 • <b>Microsoft:</b> Microsoft Word, Microsoft Excel, Microsoft Powerpoint <p>
-• <b>Google:</b> Google Docs, Google Sheets, Google Slides <p>
+• <b>Google:</b> Google Earth Engine, Google DeepMind, Google Docs, Google Sheets, Google Slides <p>
 • <b>Design:</b> Canva, Adobe InDesign, Adobe Photoshop <p>
 • <b>Modeling:</b> AutoCAD, Multisim, Tinkercad, Circuit Diagram <p>
 • <b>Hardware:</b> Arduino <p>
