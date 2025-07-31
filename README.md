@@ -1,7 +1,9 @@
 # 👩🏻‍💻 Introducing Myself
 Hello, I am Vicky. <p>
-## 📚 Projects <br>
-Welcome to my portfolio, where I showcase my [projects](https://github.com/redefiningvicky/Portfolio-Guide).
+## 📚 Technical Projects <br>
+Explore my collection of [technical projects](https://github.com/redefiningvicky/Technical-Projects).
+## 📚 Creative Projects <br>
+Explore my collection of [creative projects](https://github.com/redefiningvicky/Creative-Projects).
 ## 🛠️ Tools <br>
 • <b>Language:</b> Python, R, C++ <p>
 • <b>Bioinformatics:</b> AlphaFold3 Server, ChimeraX <p>
