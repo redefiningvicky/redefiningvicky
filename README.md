@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Introducing Myself
 Hello, I am Vicky. <p>
-## 📚 Technical Projects <br>
+## 📐 Technical Projects <br>
 Explore my collection of [technical projects](https://github.com/redefiningvicky/Technical-Projects).
 ## 🎨 Creative Projects <br>
 Explore my collection of [creative projects](https://github.com/redefiningvicky/Creative-Projects).
