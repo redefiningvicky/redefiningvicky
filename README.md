@@ -15,7 +15,7 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 • <b>Modeling:</b> AutoCAD, Multisim, Tinkercad, Circuit Diagram <p>
 • <b>Hardware:</b> Arduino <p>
 • <b>Analysis:</b> PSPP <p>
-• <b>Project Management:</b> Asana, Notion <p>
+• <b>Project Management:</b> Asana, Monday, Notion <p>
 ## 👋🏻 Find Me Here <br>
 • Visit my [Website](). <p>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
