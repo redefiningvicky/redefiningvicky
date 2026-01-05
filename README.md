@@ -12,7 +12,7 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 • <b>Microsoft:</b> Microsoft Word, Microsoft Excel, Microsoft Powerpoint <p>
 • <b>Google:</b> Google Docs, Google Sheets, Google Slides <p>
 • <b>Design:</b> Canva, Adobe InDesign, Adobe Photoshop, Figma <p>
-• <b>Modeling:</b> AutoCAD, Multisim, Tinkercad, Circuit Diagram <p>
+• <b>Modeling:</b> AutoCAD, Circuit Diagram, Multisim, Tinkercad  <p>
 • <b>Hardware:</b> Arduino <p>
 • <b>Analysis:</b> PSPP <p>
 • <b>Project Management:</b> Asana, Monday, Notion <p>
