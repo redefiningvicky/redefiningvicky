@@ -7,7 +7,7 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 ## 🛠️ Tools <br>
 • <b>Language:</b> Python, R, C++ <p>
 • <b>Bioinformatics:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
-• <b>Visualization:</b>  <p>
+• <b>Visualization:</b> Tableau <p>
 • <b>GIS:</b> ArcGIS Online, ArcGIS Pro, ENVI, Google Maps, Google Earth Engine <p>
 • <b>Microsoft:</b> Microsoft Word, Microsoft Excel, Microsoft Powerpoint <p>
 • <b>Google:</b> Google Docs, Google Sheets, Google Slides <p>
