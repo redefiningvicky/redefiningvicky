@@ -17,7 +17,7 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 • <b>Analysis:</b> PSPP <p>
 • <b>Project Management:</b> Asana, Monday, Notion <p>
 • <b>CRM:</b>  <p>
-• <b>Database:</b>  <p>
+• <b>Database:</b> Airtable <p>
 ## 👋🏻 Find Me Here <br>
 • Visit my [Website](). <p>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
