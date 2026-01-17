@@ -15,3 +15,4 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 ## 👋🏻 Find Me Here <br>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
 • Connect with me on [Instagram](https://www.instagram.com/redefiningvicky/). <p>
+• Discover my lifelong project [Humane Arc](https://www.humanearc.com/). <p>
