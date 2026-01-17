@@ -5,20 +5,13 @@ Explore my collection of [technical projects](https://github.com/redefiningvicky
 ## 🎨 Creative Projects <br>
 Explore my collection of [creative projects](https://github.com/redefiningvicky/Creative-Projects).
 ## 🛠️ Tools <br>
-• <b>Language:</b> Python, R, C++ <p>
-• <b>Bioinformatics:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
-• <b>Visualization:</b> Tableau <p>
-• <b>GIS:</b> ArcGIS Online, ArcGIS Pro, ENVI, Google Maps, Google Earth Engine <p>
-• <b>Microsoft:</b> Microsoft Word, Microsoft Excel, Microsoft Powerpoint <p>
-• <b>Google:</b> Google Docs, Google Sheets, Google Slides <p>
-• <b>Design:</b> Canva, Adobe InDesign, Adobe Photoshop, Figma <p>
-• <b>Modeling:</b> AutoCAD, Circuit Diagram, Multisim, Tinkercad  <p>
-• <b>Hardware:</b> Arduino <p>
-• <b>Analysis:</b> PSPP <p>
-• <b>Project Management:</b> Asana, Monday, Notion <p>
-• <b>CRM:</b>  <p>
-• <b>Database:</b> Airtable <p>
+• <b>Programming & Computational Analysis:</b> Python, R, C++, PSPP <p>
+• <b>Engineering & Hardware:</b> AutoCAD, Circuit Diagram, Multisim, Tinkercad, Arduino <p>
+• <b>Bioinformatics & Structural Biology:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
+• <b>Design & Visualization:</b> Tableau, Canva, Adobe (InDesign & Photoshop), Figma <p>
+• <b>GIS & Remote Sensing:</b> ArcGIS (Online & Pro), ENVI, Google (Maps & Earth Engine) <p>
+• <b>Project Management, CRM & Database:</b> Asana, Monday, Notion, Airtable <p>
+• <b>Productivity & Collaboration:</b> Google (Docs, Sheets, Slides, Sites), Microsoft 365 (Word, Excel, PowerPoint) <p>
 ## 👋🏻 Find Me Here <br>
-• Visit my [Website](). <p>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
-• Hire me on [Upwork]().
+• Connect with me on [Instagram](https://www.instagram.com/redefiningvicky/). <p>
