@@ -11,7 +11,7 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 • <b>Design & Visualization:</b> Tableau, Canva, Adobe (InDesign & Photoshop), Figma <p>
 • <b>GIS & Remote Sensing:</b> ArcGIS (Online & Pro), ENVI, Google (Maps & Earth Engine) <p>
 • <b>Project Management, CRM & Database:</b> Asana, Monday, Notion, Airtable <p>
-• <b>Productivity & Collaboration:</b> Google (Blogspot, Docs, Sheets, Sites, Slides), Microsoft 365 (Word, Excel, PowerPoint) <p>
+• <b>Productivity & Collaboration:</b> Google (Docs, Sheets, Slides, Sites & Blogspot), Microsoft 365 (Word, Excel & PowerPoint) <p>
 ## 👋🏻 Find Me Here <br>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
 • Connect with me on [Instagram](https://www.instagram.com/redefiningvicky/). <p>
