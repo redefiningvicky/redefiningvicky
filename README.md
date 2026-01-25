@@ -7,11 +7,11 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 ## 🛠️ Tools <br>
 • <b>Programming & Computational Analysis:</b> Python, R, C++, PSPP <p>
 • <b>Engineering & Hardware:</b> AutoCAD, Autodesk Fusion, Circuit Diagram, Multisim, Tinkercad, Arduino <p>
-• <b>Bioinformatics & Structural Biology:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
 • <b>Design & Visualization:</b> Tableau, Canva, Adobe (InDesign & Photoshop), Figma <p>
 • <b>GIS & Remote Sensing:</b> ArcGIS (Online, Pro, StoryMaps, Dashboard, & Field Maps), Google (Maps & Earth Engine), ENVI <p>
-• <b>Project Management, CRM & Database:</b> Asana, Monday, Notion, Airtable <p>
 • <b>Productivity & Collaboration:</b> Google (Docs, Sheets, Slides, Sites, & Blogspot), Microsoft 365 (Word, Excel, & PowerPoint) <p>
+• <b>Bioinformatics & Structural Biology:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
+• <b>Project Management, CRM & Database:</b> Asana, Monday, Notion, Airtable <p>
 ## 👋🏻 Find Me Here <br>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
 • Connect with me on [Instagram](https://www.instagram.com/redefiningvicky/). <p>
