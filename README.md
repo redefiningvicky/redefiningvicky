@@ -9,7 +9,7 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 • <b>Engineering & Hardware:</b> AutoCAD, Autodesk Fusion, Circuit Diagram, Multisim, Tinkercad, Arduino <p>
 • <b>Bioinformatics & Structural Biology:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
 • <b>Design & Visualization:</b> Tableau, Canva, Adobe (InDesign & Photoshop), Figma <p>
-• <b>GIS & Remote Sensing:</b> ArcGIS (Online & Pro), ENVI, Google (Maps & Earth Engine) <p>
+• <b>GIS & Remote Sensing:</b> ArcGIS (Online, Pro, StoryMaps & Dashboard), Google (Maps & Earth Engine), ENVI <p>
 • <b>Project Management, CRM & Database:</b> Asana, Monday, Notion, Airtable <p>
 • <b>Productivity & Collaboration:</b> Google (Docs, Sheets, Slides, Sites & Blogspot), Microsoft 365 (Word, Excel & PowerPoint) <p>
 ## 👋🏻 Find Me Here <br>
