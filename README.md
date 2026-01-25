@@ -6,7 +6,7 @@ Explore my collection of [technical projects](https://github.com/redefiningvicky
 Explore my collection of [creative projects](https://github.com/redefiningvicky/Creative-Projects).
 ## 🛠️ Tools <br>
 • <b>Programming & Computational Analysis:</b> Python, R, C++, PSPP <p>
-• <b>Engineering & Hardware:</b> AutoCAD, Circuit Diagram, Multisim, Tinkercad, Arduino <p>
+• <b>Engineering & Hardware:</b> AutoCAD, Autodesk Fusion, Circuit Diagram, Multisim, Tinkercad, Arduino <p>
 • <b>Bioinformatics & Structural Biology:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
 • <b>Design & Visualization:</b> Tableau, Canva, Adobe (InDesign & Photoshop), Figma <p>
 • <b>GIS & Remote Sensing:</b> ArcGIS (Online & Pro), ENVI, Google (Maps & Earth Engine) <p>
