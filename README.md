@@ -11,7 +11,7 @@ Explore my collection of [creative projects](https://github.com/redefiningvicky/
 • <b>Design & Visualization:</b> Tableau, Canva, Adobe (InDesign & Photoshop), Figma <p>
 • <b>Productivity & Collaboration:</b> Google (Docs, Sheets, Slides, Blogspot, & Sites), Microsoft 365 (Word, Excel, & PowerPoint) <p>
 • <b>Bioinformatics & Structural Biology:</b> AlphaFold3 Server, ChimeraX, Google DeepMind <p>
-• <b>Project Management, CRM & Database:</b> Asana, Monday, Notion, Airtable <p>
+• <b>Project Management, CRM, & Database:</b> Asana, Monday, Notion, Airtable <p>
 ## 👋🏻 Find Me Here <br>
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/redefiningvicky/). <p>
 • Connect with me on [Instagram](https://www.instagram.com/redefiningvicky/). <p>
