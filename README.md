@@ -4,7 +4,7 @@ Hello, I am Vicky. 👩🏻‍💻 <p>
 
 💡 In community and international development contexts, I’ve led cross-functional initiatives that deliver outcomes while staying attuned to social and community dynamics. I bring structure to complexity — streamlining processes and guiding decisions that translate into tangible results.
 
-🤝 I thrive in environments that bring together diverse perspectives and enable practical execution that creates lasting value, with an approach grounded in people and thoughtful impact.
+🤝 I thrive in environments that bring together diverse perspectives and enable practical execution that creates lasting value. My approach is grounded in people and thoughtful impact.
 
 ✨ I’m motivated by work that doesn’t just move metrics — but makes a meaningful difference.
 ## 📐 Technical Projects <br>
