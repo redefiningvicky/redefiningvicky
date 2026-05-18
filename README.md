@@ -1,9 +1,9 @@
 # 👋 Introducing Myself
-Hello, I am Vicky. 👩🏻‍💻 <p>
-🌍 I’m a strategic program leader passionate about driving meaningful, measurable results in complex environments. My work sits at the intersection of human-centered solutions, community collaboration, and project management. <p>
-💡 In local and international development contexts, I’ve led cross-functional initiatives that deliver outcomes while staying attuned to social and community dynamics. I bring structure to complexity by streamlining processes and guiding decisions that translate into tangible results. <p>
-🤝 I thrive in environments that bring together diverse perspectives and enable practical execution that creates lasting value. My approach is grounded in people and thoughtful impact. <p>
-✨ I’m motivated by work that doesn’t just move metrics, but makes a meaningful difference.
+Hello, I'm Vicky. 👩🏻‍💻 <p>
+🌍 I'm a strategic program leader committed to executing measurable outcomes across local and international development contexts. <p>
+💡 I lead with curiosity. When things are unclear, I find the dots and connect them. <p>
+🤝 I thrive where different perspectives come together, because the best solutions are built with people, not just for them. <p>
+✨ I'm motivated by work that doesn't just move metrics, but creates lasting impact. <p>
 ## 📐 Technical Projects <br>
 Explore my collection of [technical projects](https://github.com/redefiningvicky/Technical-Projects).
 ## 🎨 Creative Projects <br>
