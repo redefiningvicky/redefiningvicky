@@ -4,7 +4,7 @@ I build at the intersection of people, systems, and technology — across commun
 At the heart of that work is AI, humanitarian and nonprofit technology. From there comes empowered learning spaces for children, youth, and women throughout Asia. <p>
 That same care extends to honoring older adults and seniors through dignified initiatives. And to healing patients who have endured stroke and traumatic brain injuries. <p>
 I lead with curiosity. When things are unclear, I find the dots and connect them. I believe the best solutions are built with people, not just for them — especially the people systems forget. <p>
-My hope is to leave a lasting, positive impact on the world. ✨ <hr>
+My hope is to leave a lasting, positive impact on the world. ✨ <hr style="border: none; border-top: 0.5px solid #ccc;">
   
 ## 📐 Technical Projects <br>
 Explore my collection of [technical projects](https://github.com/redefiningvicky/Technical-Projects).
