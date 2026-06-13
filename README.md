@@ -1,9 +1,10 @@
 # 👋 Introducing Myself
 Hello, I'm Vicky. 👩🏻‍💻 <p>
-🌍 I build at the intersection of people, systems, and technology, across communities, countries, and disciplines. <p>
-💡 I lead with curiosity. When things are unclear, I find the dots and connect them. <p>
-🤝 I believe the best solutions are built with people, not just for them, especially the people systems forget. <p>
-✨ I'm motivated by work that doesn't just move metrics, but creates lasting impact. <p>
+I build at the intersection of people, systems, and technology — across communities and countries. <p>
+At the heart of that work is AI, humanitarian and nonprofit technology. From there comes empowered learning spaces for children, youth, and women throughout Asia. <p>
+That same care extends to honoring older adults and seniors through dignified initiatives. And to healing patients who have endured stroke and traumatic brain injuries. <p>
+I lead with curiosity. When things are unclear, I find the dots and connect them. I believe the best solutions are built with people, not just for them — especially the people systems forget. <p>
+My hope is to leave a lasting, positive impact on the world. ✨ <p>
 ## 📐 Technical Projects <br>
 Explore my collection of [technical projects](https://github.com/redefiningvicky/Technical-Projects).
 ## 🎨 Creative Projects <br>
