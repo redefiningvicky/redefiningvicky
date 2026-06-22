@@ -1,9 +1,8 @@
 # 👋 Introducing Myself
 Hello, I'm Vicky. 👩🏻‍💻 <p>
-I build at the intersection of people, systems, and technology—across communities and countries. <p>
-At the heart of that work is AI, humanitarian and nonprofit technology. From there comes empowered learning spaces for children, youth, and women throughout Asia. <p>
-That same care extends to honoring older adults and seniors through dignified initiatives. And to healing patients who endure and have endured stroke, traumatic brain injuries, and comatose, vegetative, and locked-in states. <p>
-I lead with curiosity. When things are unclear, I find the dots and connect them. I believe the best solutions are built with people, not just for them—especially the people systems forget. <p>
+I build at the intersection of people, systems, and technology — across communities and countries. <p>
+At the heart of that work is humanitarian and nonprofit technology — engineered with AI and SaaS. From there comes empowered learning spaces for children, youth, and women throughout Asia. That same care extends to honoring older adults and seniors through dignified initiatives. And to healing patients who endure and have endured stroke, traumatic brain injuries, and comatose, vegetative, and locked-in states. <p>
+I lead with curiosity. When things are unclear, I find the dots and connect them. I believe the best solutions are built with people, not just for them — especially the people systems forget. <p>
 My hope is to leave a lasting, positive impact on the world. ✨ <hr style="border: none; border-top: 0.25px solid #ccc;">
   
 ## 📐 Technical Projects <br>
