@@ -5,7 +5,7 @@ I believe the best technology is built with people, not just for them, especiall
 ## 🤖 Agentic Projects <br>
 Explore my collection of [agentic projects](https://github.com/redefiningvicky/Agentic-Projects).
 ## 🔮 Vibe Coding Projects <br>
-Explore my collection of [agentic projects](https://github.com/redefiningvicky/Vibe-Coding-Projects).  
+Explore my collection of [vibe coding projects](https://github.com/redefiningvicky/Vibe-Coding-Projects).  
 ## 📐 Technical Projects <br>
 Explore my collection of [technical projects](https://github.com/redefiningvicky/Technical-Projects).
 ## 🎨 Creative Projects <br>
