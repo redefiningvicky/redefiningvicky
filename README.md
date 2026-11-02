@@ -4,7 +4,7 @@ I build at the intersection of people and technology across communities and coun
 I believe the best technology is built with people, not just for them, especially those the world forgets. ✨ <hr style="border: none; border-top: 0.25px solid #ccc;">
 # 🗂️ Projects
 Explore my collection of projects.<p> 
-### [🤖 Agentic Projects](https://github.com/redefiningvicky/Agentic-Projects) <br>
+### [🤖 Agentic Engineering Projects](https://github.com/redefiningvicky/Agentic-Engineering-Projects) <br>
 ### [🏄‍♂️ Vibe Coding Projects](https://github.com/redefiningvicky/Vibe-Coding-Projects) <br>
 ### [🔮 Generative AI Projects](https://github.com/redefiningvicky/Generative-AI-Projects) <br>
 ### [📐 Technical Projects](https://github.com/redefiningvicky/Technical-Projects) <br>
