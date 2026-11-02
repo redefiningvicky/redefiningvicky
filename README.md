@@ -9,3 +9,4 @@ Explore my collection of projects.<p>
 ### [🔮 Generative AI Projects](https://github.com/redefiningvicky/Generative-AI-Projects) <br>
 ### [📐 Technical Projects](https://github.com/redefiningvicky/Technical-Projects) <br>
 ### [🎨 Creative Projects](https://github.com/redefiningvicky/Creative-Projects) <br>
+### [🏋🏻‍♀️ GTM Projects](https://github.com/redefiningvicky/GTM-Projects) <br>
