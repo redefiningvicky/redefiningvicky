@@ -3,7 +3,7 @@
 
   <h1>👋🏻 Hi, I'm Vicky Wong. </h1>
 
-  <h3>People × Technology</h3>
+  <h3>People × Technology x AI</h3>
 
   <p>
     I build at the intersection of people and technology across
