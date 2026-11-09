@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <td><strong>AI-Assisted App Development</strong></td>
-      <td>Lovable · Replit · ChatGPT</td>
+      <td>Lovable · Replit</td>
     </tr>
     <tr>
       <td><strong>Databases &amp; Data Services</strong></td>
