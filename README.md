@@ -112,7 +112,7 @@
     </tr>
     <tr>
       <td><strong>Data Analysis &amp; Reporting</strong></td>
-      <td>Microsoft Excel · PSPP · R Markdown</td>
+      <td>Microsoft Excel · PSPP</td>
     </tr>
     <tr>
       <td><strong>Dashboards &amp; Data Visualization</strong></td>
