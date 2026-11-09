@@ -1,7 +1,6 @@
-
 <div align="center">
 
-  <h1>👋🏻 Hi, I'm Vicky Wong. </h1>
+  <h1>👋🏻 Hi, I'm Vicky Wong.</h1>
 
   <h3>People × Technology × AI</h3>
 
@@ -78,6 +77,65 @@
 <p>
   Exploring go-to-market research and company intelligence.
 </p>
+
+<hr>
+
+<h2 id="technologies-and-tools">🛠️ Technologies &amp; Tools Used</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Technologies &amp; Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Programming &amp; Markup</strong></td>
+      <td>Python · R · C++ · HTML · CSS</td>
+    </tr>
+    <tr>
+      <td><strong>Generative AI</strong></td>
+      <td>ChatGPT · Claude · Gemini</td>
+    </tr>
+    <tr>
+      <td><strong>AI-Assisted App Development</strong></td>
+      <td>Lovable · Replit · ChatGPT</td>
+    </tr>
+    <tr>
+      <td><strong>Databases &amp; Data Services</strong></td>
+      <td>Microsoft Access · Supabase</td>
+    </tr>
+    <tr>
+      <td><strong>Project Hosting &amp; Deployment</strong></td>
+      <td>GitHub · GitHub Pages · Vercel</td>
+    </tr>
+    <tr>
+      <td><strong>Data Analysis &amp; Reporting</strong></td>
+      <td>Microsoft Excel · PSPP · R Markdown</td>
+    </tr>
+    <tr>
+      <td><strong>Dashboards &amp; Data Visualization</strong></td>
+      <td>Tableau · ArcGIS Dashboards</td>
+    </tr>
+    <tr>
+      <td><strong>Bioinformatics &amp; Structural Biology</strong></td>
+      <td>AlphaFold 3 Server · ChimeraX</td>
+    </tr>
+    <tr>
+      <td><strong>GIS &amp; Spatial Storytelling</strong></td>
+      <td>ArcGIS Online · ArcGIS StoryMaps · ArcGIS Field Maps · Google Maps</td>
+    </tr>
+    <tr>
+      <td><strong>Hardware &amp; Engineering</strong></td>
+      <td>Arduino · Tinkercad · Circuit Diagram · AutoCAD · SOLIDWORKS</td>
+    </tr>
+    <tr>
+      <td><strong>Design &amp; Presentations</strong></td>
+      <td>Canva · Gamma · Google Slides</td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 
