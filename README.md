@@ -91,7 +91,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Programming &amp; Markup</strong></td>
+      <td><strong>Programming</strong></td>
       <td>Python · R · C++ · HTML · CSS</td>
     </tr>
     <tr>
