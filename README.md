@@ -107,7 +107,7 @@
       <td>Microsoft Access · Supabase</td>
     </tr>
     <tr>
-      <td><strong>Project Hosting &amp; Deployment</strong></td>
+      <td><strong>Hosting &amp; Deployment</strong></td>
       <td>Blogger · GitHub · GitHub Pages · Vercel</td>
     </tr>
     <tr>
