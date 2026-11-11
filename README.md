@@ -116,7 +116,7 @@
     </tr>
     <tr>
       <td><strong>Dashboards &amp; Data Visualization</strong></td>
-      <td>Tableau · ArcGIS Dashboards</td>
+      <td>Tableau</td>
     </tr>
     <tr>
       <td><strong>Bioinformatics &amp; Structural Biology</strong></td>
@@ -124,7 +124,7 @@
     </tr>
     <tr>
       <td><strong>GIS &amp; Spatial Storytelling</strong></td>
-      <td>ArcGIS Online · ArcGIS StoryMaps · ArcGIS Field Maps · Google Maps</td>
+      <td>ArcGIS · Google Maps</td>
     </tr>
     <tr>
       <td><strong>Hardware &amp; Engineering</strong></td>
