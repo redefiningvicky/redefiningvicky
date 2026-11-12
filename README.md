@@ -70,8 +70,8 @@
 </p>
 
 <h3>
-  <a href="https://github.com/redefiningvicky/GTM-Projects">
-    🏋🏻‍♀️ GTM Projects
+  <a href="https://github.com/redefiningvicky/Go-To-Market-Projects">
+    🏋🏻‍♀️ Go-To-Market Projects
   </a>
 </h3>
 <p>
