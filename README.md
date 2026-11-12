@@ -104,7 +104,7 @@
     </tr>
     <tr>
       <td><strong>Databases &amp; Data Services</strong></td>
-      <td>Microsoft Access · Supabase</td>
+      <td>Microsoft Access · Neon · Supabase</td>
     </tr>
     <tr>
       <td><strong>Hosting &amp; Deployment</strong></td>
