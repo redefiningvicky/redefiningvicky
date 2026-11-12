@@ -92,7 +92,7 @@
   <tbody>
     <tr>
       <td><strong>Programming</strong></td>
-      <td>Python · R · C++ · HTML · CSS · SQL</td>
+      <td>Python · R · C++ · SQL· HTML · CSS</td>
     </tr>
     <tr>
       <td><strong>Generative AI</strong></td>
