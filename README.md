@@ -108,7 +108,7 @@
     </tr>
     <tr>
       <td><strong>Hosting &amp; Deployment</strong></td>
-      <td>Blogger · GitHub · GitHub Pages · Vercel</td>
+      <td>Blogger · GitHub · Vercel</td>
     </tr>
     <tr>
       <td><strong>Data Analysis &amp; Reporting</strong></td>
