@@ -42,15 +42,6 @@
   Applying programming and data analysis.
 </p>
 
-<h3>
-  <a href="https://github.com/redefiningvicky/Creative-Projects">
-    🎨 Creative Projects
-  </a>
-</h3>
-<p>
-  Exploring visual design and cultural storytelling.
-</p>
-
 <hr>
 
 <h2 id="technologies-and-tools">🛠️ Technologies &amp; Tools Used</h2>
