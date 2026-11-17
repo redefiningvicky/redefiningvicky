@@ -18,11 +18,7 @@
 
 <hr>
 
-<h2 id="portfolio">🗂️ Portfolio</h2>
-
-<p>Explore my selected projects across technology, AI, and creativity.</p>
-
-<hr>
+<h2 id="portfolio">🗂️ Selected Projects</h2>
 
 <h3>
   🧠
