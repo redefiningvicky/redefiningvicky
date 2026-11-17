@@ -120,19 +120,39 @@
 
 <h3>
 <p>
-  <a href="https://github.com/redefiningvicky/Project-Glossary-A-F">
-    View A-F
+  <a href="https://github.com/redefiningvicky/Project-Glossary-A-C">
+    View A-C
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Project-Glossary-G-M">
-    View G-M
+  <a href="https://github.com/redefiningvicky/Project-Glossary-D-F">
+    View D-F
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Project-Glossary-N-S">
-    View N-S
+  <a href="https://github.com/redefiningvicky/Project-Glossary-G-I">
+    View G-I
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Project-Glossary-T-Z">
-    View T-Z
+  <a href="https://github.com/redefiningvicky/Project-Glossary-J-L">
+    View J-L
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-M-O">
+    View M-O
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-P-R">
+    View P-R
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-S-U">
+    View S-U
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-V-X">
+    View V-X
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-Y-Z">
+    View Y-Z
   </a>
 </h3>
