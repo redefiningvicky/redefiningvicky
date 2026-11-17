@@ -25,15 +25,6 @@
 </p>
 
 <h3>
-  <a href="https://github.com/redefiningvicky/Agentic-Engineering-Projects">
-    🤖 Agentic Engineering Projects
-  </a>
-</h3>
-<p>
-  Exploring AI agents and autonomous workflows.
-</p>
-
-<h3>
   <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">
     🏄‍♂️ Vibe Coding Projects
   </a>
