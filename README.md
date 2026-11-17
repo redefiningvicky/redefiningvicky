@@ -44,15 +44,6 @@
 </p>
 
 <h3>
-  <a href="https://github.com/redefiningvicky/Generative-AI-Projects">
-    🔮 Generative AI Projects
-  </a>
-</h3>
-<p>
-  Exploring generative models and AI storytelling.
-</p>
-
-<h3>
   <a href="https://github.com/redefiningvicky/Technical-Projects">
     📐 Technical Projects
   </a>
@@ -68,15 +59,6 @@
 </h3>
 <p>
   Exploring visual design and cultural storytelling.
-</p>
-
-<h3>
-  <a href="https://github.com/redefiningvicky/Go-To-Market-Projects">
-    🏋🏻‍♀️ Go-To-Market Projects
-  </a>
-</h3>
-<p>
-  Exploring go-to-market research and company intelligence.
 </p>
 
 <hr>
