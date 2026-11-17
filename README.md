@@ -105,8 +105,32 @@
   </a>
 </p>
 
+<hr>
 
+<h3>
+  🃏
+  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
+    TagFlip HTML
+  </a>
+</h3>
 
+<p>
+  Flashcards for learning HTML one flip at a time using interactive flashcards with practical markup, live previews, and copyable code snippets.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, ChatGPT, Claude</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://tagflip-html.lovable.app">
+    Launch App
+  </a>
+</p>
 
 <hr>
 
