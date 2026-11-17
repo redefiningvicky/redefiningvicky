@@ -18,29 +18,12 @@
 
 <hr>
 
-<h2 id="explore-the-portfolio">🗂️ Explore the Portfolio</h2>
-
-<p>
-  Explore my selected projects across technology, AI, and creativity.
-</p>
-
+<h2>🗂️ Portfolio</h2>
 <h3>
-  <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">
-    🏄‍♂️ Vibe Coding Projects
+  <a href="https://github.com/redefiningvicky/Vicky-Wong-Portfolio">
+    Explore my selected projects across technology, AI, and creativity.
   </a>
 </h3>
-<p>
-  Building interactive apps and games.
-</p>
-
-<h3>
-  <a href="https://github.com/redefiningvicky/Technical-Projects">
-    📐 Technical Projects
-  </a>
-</h3>
-<p>
-  Applying programming and data analysis.
-</p>
 
 <hr>
 
