@@ -40,6 +40,7 @@
 </h3>
 <p>
   Building interactive apps and games.
+  <em>Latest: <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">Oakenburrow</a> · <a href="https://github.com/redefiningvicky/Static-Soul-TV">Static Soul</a></em>
 </p>
 
 <h3>
