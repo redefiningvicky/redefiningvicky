@@ -132,3 +132,8 @@
   </p>
 
 </div>
+
+<hr>
+
+<h2 id="glossary">🔠 Glossary </h2>
+A-F · G-M · N-S · T-Z
