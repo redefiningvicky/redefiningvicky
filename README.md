@@ -128,6 +128,7 @@
 
 <h2 id="project-glossary">🔠 Project Glossary </h2>
 
+<h3>
 <p>
   <a href="https://github.com/redefiningvicky/Project-Glossary-A-F">
     View A-F
@@ -144,4 +145,4 @@
   <a href="https://github.com/redefiningvicky/Project-Glossary-T-Z">
     View T-Z
   </a>
-  
+</h3>
