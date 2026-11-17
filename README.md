@@ -126,5 +126,22 @@
 
 <hr>
 
-<h2 id="glossary">🔠 Glossary </h2>
-A-F · G-M · N-S · T-Z
+<h2 id="project-glossary">🔠 Project Glossary </h2>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Project-Glossary-A-F">
+    View A-F
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-G-M">
+    View G-M
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-N-S">
+    View N-S
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Project-Glossary-T-Z">
+    View T-Z
+  </a>
+  
