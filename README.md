@@ -18,12 +18,99 @@
 
 <hr>
 
-<h2>🗂️ Portfolio</h2>
+<h2 id="portfolio">🗂️ Portfolio</h2>
+
+<p>Explore my selected projects across technology, AI, and creativity.</p>
+
+<hr>
+
 <h3>
-  <a href="https://github.com/redefiningvicky/Vicky-Wong-Portfolio">
-    Explore my selected projects across technology, AI, and creativity.
+  🧠
+  <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health">
+    Educational Attainment and Mental Health
   </a>
 </h3>
+
+<p>
+  A Sacramento County study exploring the relationship
+  between educational attainment and mental health.
+</p>
+
+<p>
+  <sub>March 2024 · R, ArcGIS Online, ArcGIS StoryMaps</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://arcg.is/0LeCqz">
+    View StoryMaps
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health/blob/main/Code/Educational_Attainment_and_Mental_Health.Rmd">
+    View R Script
+  </a>
+</p>
+
+<hr>
+
+<h3>
+  🕊️
+  <a href="https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace">
+    Dessups: The Guardians of Peace
+  </a>
+</h3>
+
+<p>
+  A geographic analysis of Bhutan's Desuung
+  community service and national development initiatives.
+</p>
+
+<p>
+  <sub>August 2024 · ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://arcg.is/11KOu80">
+    View StoryMaps
+  </a>
+</p>
+
+<hr>
+
+<h3>
+  🌿
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    Oakenburrow Cafe
+  </a>
+</h3>
+
+<p>
+  A cozy woodland cafe game about sharing a meal, meeting the neighbors, and paying it forward.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, Claude, ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://oakenburrowcafe.lovable.app/">
+    Launch Game
+  </a>
+</p>
+
+
+
 
 <hr>
 
