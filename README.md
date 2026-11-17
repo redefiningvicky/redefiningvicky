@@ -21,7 +21,7 @@
 <h2 id="explore-the-portfolio">🗂️ Explore the Portfolio</h2>
 
 <p>
-  Explore my projects across technology, AI, and creativity.
+  Explore my selected projects across technology, AI, and creativity.
 </p>
 
 <h3>
