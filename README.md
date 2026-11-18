@@ -115,7 +115,7 @@
 </h3>
 
 <p>
-  Flashcards for learning HTML one flip at a time using interactive flashcards with practical markup, live previews, and copyable code snippets.
+  Flashcards for learning HTML one flip at a time with practical markup, live previews, and copyable code snippets.
 </p>
 
 <p>
