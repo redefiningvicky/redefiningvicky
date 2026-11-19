@@ -75,6 +75,62 @@
 <hr>
 
 <h3>
+  ⛰️
+  <a href="https://github.com/redefiningvicky/Frontier-50">
+    Frontier 50
+  </a>
+</h3>
+
+<p>
+  A database of 50 US-based frontier AI companies
+  for tracking company intelligence and industry developments.
+</p>
+
+<p>
+  <sub>November 2026 · Gemini, Clay</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Frontier-50">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Frontier-50/blob/main/Frontier_50/Frontier_50.csv">
+    View CSV
+  </a>
+</p>
+
+<hr>
+
+<h3>
+  🩺
+  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status">
+    Clinical Consciousness Status Analysis
+  </a>
+</h3>
+
+<p>
+  An interactive dashboard analyzing neurological
+  diagnoses and clinical interventions in California hospitals.
+</p>
+
+<p>
+  <sub>January 2026 · Tableau, Microsoft Excel</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://public.tableau.com/views/ClinicalConsciousnessStatusAnalysisforCaliforniaHospitals2024/Dashboard1">
+    View Dashboard
+  </a>
+</p>
+
+<hr>
+
+<h3>
   🧠
   <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health">
     Educational Attainment and Mental Health
