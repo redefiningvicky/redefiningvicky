@@ -213,8 +213,12 @@
       <td>Lovable · Replit</td>
     </tr>
     <tr>
+      <td><strong>GTM & Data Enrichment</strong></td>
+      <td>Clay</td>
+    </tr>
+        <tr>
       <td><strong>Databases &amp; Data Services</strong></td>
-      <td>Microsoft Access · Neon · Supabase</td>
+      <td>Microsoft Access · Neon · Supabase, Databricks</td>
     </tr>
     <tr>
       <td><strong>Hosting &amp; Deployment</strong></td>
