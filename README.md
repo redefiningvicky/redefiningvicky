@@ -21,6 +21,60 @@
 <h2 id="portfolio">🗂️ Selected Projects</h2>
 
 <h3>
+  🌿
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    Oakenburrow Cafe
+  </a>
+</h3>
+
+<p>
+  A cozy woodland cafe game about sharing a meal, meeting the neighbors, and paying it forward.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, Claude, ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://oakenburrow-cafe.lovable.app/">
+    Launch Game
+  </a>
+</p>
+
+<hr>
+
+<h3>
+  🃏
+  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
+    TagFlip HTML
+  </a>
+</h3>
+
+<p>
+  Flashcards for learning HTML one flip at a time with practical markup, live previews, and copyable code snippets.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, ChatGPT, Claude</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://tagflip-html.lovable.app">
+    Launch App
+  </a>
+</p>
+
+<hr>
+
+<h3>
   🧠
   <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health">
     Educational Attainment and Mental Health
@@ -75,60 +129,6 @@
   &nbsp; • &nbsp;
   <a href="https://arcg.is/11KOu80">
     View StoryMaps
-  </a>
-</p>
-
-<hr>
-
-<h3>
-  🌿
-  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
-    Oakenburrow Cafe
-  </a>
-</h3>
-
-<p>
-  A cozy woodland cafe game about sharing a meal, meeting the neighbors, and paying it forward.
-</p>
-
-<p>
-  <sub>November 2026 · Lovable, Claude, ChatGPT</sub>
-</p>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
-    View Project
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://oakenburrowcafe.lovable.app/">
-    Launch Game
-  </a>
-</p>
-
-<hr>
-
-<h3>
-  🃏
-  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
-    TagFlip HTML
-  </a>
-</h3>
-
-<p>
-  Flashcards for learning HTML one flip at a time with practical markup, live previews, and copyable code snippets.
-</p>
-
-<p>
-  <sub>November 2026 · Lovable, ChatGPT, Claude</sub>
-</p>
-
-<p>
-  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
-    View Project
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://tagflip-html.lovable.app">
-    Launch App
   </a>
 </p>
 
