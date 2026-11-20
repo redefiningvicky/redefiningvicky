@@ -214,7 +214,7 @@
     </tr>
     <tr>
       <td><strong>Databases &amp; Data Services</strong></td>
-      <td>Microsoft Access · Neon · Supabase, Databricks</td>
+      <td>Microsoft Access · Neon · Supabase · Databricks</td>
     </tr>
     <tr>
       <td><strong>GTM & Data Enrichment</strong></td>
