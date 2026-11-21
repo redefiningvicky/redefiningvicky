@@ -20,32 +20,6 @@
 
 <h2 id="portfolio">🗂️ Selected Projects</h2>
 
-<h3>
-  ⛰️
-  <a href="https://github.com/redefiningvicky/Frontier-50">
-    Frontier 50
-  </a>
-</h3>
-
-<p>
-  A database of 50 US-based frontier AI companies
-  for tracking company intelligence and industry developments.
-</p>
-
-<p>
-  <sub>November 2026 · Gemini, Clay</sub>
-</p>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Frontier-50">
-    View Project
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Frontier-50/blob/main/Frontier_50/Frontier_50.csv">
-    View CSV
-  </a>
-</p>
-
 <hr>
 
 <h2 id="technologies-and-tools">🛠️ Technologies &amp; Tools Used</h2>
