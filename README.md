@@ -124,11 +124,6 @@
 
 <hr>
 
-<h2 id="project-idex">🔠 Project Index </h2>
-
-<h3>
-<p>
-  <a href="https://github.com/redefiningvicky/Project-Index">
-    View Project Index
-  </a>
-</h3>
+<h2 id="project-index">
+  🔠 <a href="https://github.com/redefiningvicky/Project-Index">Project Index</a>
+</h2>
