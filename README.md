@@ -129,7 +129,7 @@
 <h3>
 <p>
   <a href="https://github.com/redefiningvicky/Project-Index">
-    A-C
+    View Project Index
   </a>
 </h3>
 
