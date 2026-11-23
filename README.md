@@ -6,7 +6,9 @@
 
   <p>
     <a href="https://www.redefiningvicky.com">Website</a> ·
-    <a href="https://www.linkedin.com/in/redefiningvicky/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/redefiningvicky/">LinkedIn</a> ·
+    <a href="https://www.instagram.com/redefiningvicky/">Instagram</a> ·
+    <a href="https://x.com/redefiningvicky">X</a>
   </p>
 
 </div>
