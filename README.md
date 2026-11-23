@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td><strong>AI-Assisted App Development</strong></td>
-      <td>Lovable · Replit</td>
+      <td>Lovable · Replit, v0</td>
     </tr>
     <tr>
       <td><strong>Databases &amp; Data Services</strong></td>
