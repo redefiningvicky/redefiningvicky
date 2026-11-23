@@ -17,13 +17,6 @@
 
   <h1>👋🏻 Hi, I'm Vicky Wong.</h1>
 
-  <h3>People × Technology × AI</h3>
-
-  <p>
-    I build at the intersection of people and technology across
-    communities and countries, with AI at its heart.
-  </p>
-
   <p>
     I believe the best technology is built with people, not just
     for them, especially those the world forgets. ✨
@@ -57,7 +50,7 @@
     </tr>
     <tr>
       <td><strong>AI-Assisted App Development</strong></td>
-      <td>Lovable · Replit, v0</td>
+      <td>Lovable · Replit · v0</td>
     </tr>
     <tr>
       <td><strong>Databases &amp; Data Services</strong></td>
