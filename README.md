@@ -15,8 +15,6 @@
 
 <div align="center">
 
-  <h1>👋🏻 Hi, I'm Vicky Wong.</h1>
-
   <p>
     I believe the best technology is built with people, not just
     for them, especially those the world forgets. ✨
