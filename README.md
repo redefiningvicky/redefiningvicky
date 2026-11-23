@@ -1,5 +1,18 @@
 <div align="center">
 
+  <a href="https://www.redefiningvicky.com">
+    <img src="assets/banner.png" alt="Vicky Wong · People × Technology × AI" width="100%">
+  </a>
+
+  <p>
+    <a href="https://www.redefiningvicky.com">Website</a> ·
+    <a href="https://www.linkedin.com/in/redefiningvicky/">LinkedIn</a>
+  </p>
+
+</div>
+
+<div align="center">
+
   <h1>👋🏻 Hi, I'm Vicky Wong.</h1>
 
   <h3>People × Technology × AI</h3>
