@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://www.redefiningvicky.com">
-    <img src="https://raw.githubusercontent.com/redefiningvicky/vicky-wong-portfolio-website/main/brand/social/exports/github-banner.png" alt="Vicky Wong · People × Technology × AI" width="100%">
+    <img src="https://raw.githubusercontent.com/redefiningvicky/vicky-wong-portfolio-website/main/brand/social/exports/github-banner-v2.png" alt="Vicky Wong · People × Technology × AI" width="100%">
   </a>
 
   <p>
