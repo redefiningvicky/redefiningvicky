@@ -52,8 +52,6 @@
   </a>
 </p>
 
-<br>
-
 <h3>
   💼
   <a href="https://github.com/redefiningvicky/Job-Tracker-AI">
@@ -74,8 +72,6 @@
     View Project
   </a>
 </p>
-
-<br>
 
 <h3>
   🌿
@@ -101,8 +97,6 @@
     Launch Game
   </a>
 </p>
-
-<br>
 
 <h3>
   🩺
